@@ -1,56 +1,83 @@
 {
   "movies": [{
-    "title" : "Star Wars: Episode I - The Phantom Menace",
+    "title" : "Harry Potter and the Philosopher's Stone",
     "movie_number" : "1",
-    "main_characters" : ["Qui-Gon Jinn", "Obi-Wan Kenobi", "Anakin Skywalker", "Padmé Amidala", "Jar Jar Binks", "Darth Maul"],
-    "description" : "The evil Trade Federation, led by Nute Gunray is planning to take over the peaceful world of Naboo. Jedi Knights Qui-Gon Jinn and Obi-Wan Kenobi are sent to confront the leaders. But not everything goes to plan. The two Jedi escape, and along with their new Gungan friend, Jar Jar Binks head to Naboo to warn Queen Amidala, but droids have already started to capture Naboo and the Queen is not safe there. Eventually, they land on Tatooine, where they become friends with a young boy known as Anakin Skywalker. Qui-Gon is curious about the boy, and sees a bright future for him. The group must now find a way of getting to Coruscant and to finally solve this trade dispute, but there is someone else hiding in the shadows. Are the Sith really extinct? Is the Queen really who she says she is? And what's so special about this young boy?",
-    "poster" : "star_wars_episode_1_poster.png",
-    "hero_image" : "star_wars_episode_1_hero.jpg"
+    "main_characters" : ["Harry Potter", "Ron Weasley", "Hermione Granger", "Rubeus Hagrid", "Neville Longbottom", "Draco Malfoy", "Albus Dumbledore", "Professor McGonagall", "Professor Snape", "Professor Quirrell", "Lord Voldemort"],
+    "description" : "Adaptation of the first of J.K. Rowling's popular children's novels about Harry Potter, a boy who learns on his eleventh birthday that he is the orphaned son of two powerful wizards and possesses unique magical powers of his own. He is summoned from his life as an unwanted child to become a student at Hogwarts, an English boarding school for wizards. There, he meets several friends who become his closest allies and help him discover the truth about his parents' mysterious deaths.",
+    "poster" : "harry_potter_movie_1_poster.png",
+    "hero_image" : "harry_potter_movie_1_hero.jpg"
   },
 
   {
-    "title" : "Star Wars: Episode II - Attack of the Clones",
+    "title" : "Harry Potter and the Chamber of Secrets",
     "movie_number" : "2",
-    "main_characters" : ["Obi-Wan Kenobi", "Anakin Skywalker", "Count Dooku", "Padmé Amidala", "Mace Windu", "Yoda", "Jango Fett", "Supreme Chancellor Palpatine"],
-    "description" : "Ten years after the 'Phantom Menace' threatened the planet Naboo, Padmé Amidala is now a Senator representing her homeworld. A faction of political separatists, led by Count Dooku, attempts to assassinate her. There are not enough Jedi to defend the Republic against the threat, so Chancellor Palpatine enlists the aid of Jango Fett, who promises that his army of clones will handle the situation. Meanwhile, Obi-Wan Kenobi continues to train the young Jedi Anakin Skywalker, who fears that the Jedi code will forbid his growing romance with Amidala.",
-    "poster" : "star_wars_episode_2_poster.png",
-    "hero_image" : "star_wars_episode_2_hero.jpg"
+    "main_characters" : ["Harry Potter", "Ron Weasley", "Hermione Granger", "Lucius Malfoy", "Professor Snape", "Professor McGonagall", "Hagrid The Giant", "Albus Dumbledore", "Draco Malfoy", "Lord Voldemort"],
+    "description" : "The follow-up to \"Harry Potter and the Sorcerer's Stone\" finds young wizard Harry Potter (Daniel Radcliffe) and his friends, Ron (Rupert Grint) and Hermione (Emma Watson), facing new challenges during their second year at Hogwarts School of Witchcraft and Wizardry as they try to discover a dark force that is terrorizing the school.",
+    "poster" : "harry_potter_movie_2_poster.png",
+    "hero_image" : "harry_potter_movie_2_hero.jpg"
   },
 
   {
-    "title" : "Star Wars: Episode III - Revenge of the Sith",
+    "title" : "Harry Potter and the Prisoner of Azkaban",
     "movie_number" : "3",
-    "main_characters" : ["Obi-Wan Kenobi", "Anakin Skywalker", "Count Dooku", "Padmé Amidala", "Mace Windu", "Yoda", "C-3PO", "Supreme Chancellor Palpatine"],
-    "description" : "Three years after the onset of the Clone Wars; the noble Jedi Knights are spread out across the galaxy leading a massive clone army in the war against the Separatists. After Chancellor Palpatine is kidnapped, Jedi Master Obi-Wan Kenobi and his former Padawan, Anakin Skywalker, are dispatched to eliminate the evil General Grievous. Meanwhile, Anakin's friendship with the Chancellor arouses suspicion in the Jedi Order, and dangerous to the Jedi Knight himself. When the sinister Sith Lord, Darth Sidious, unveils a plot to take over the galaxy, the fate of Anakin, the Jedi order, and the entire galaxy is at stake. Upon his return, Anakin Skywalker's wife Padme Amidala is pregnant, but he is having visions of her dying in childbirth. Anakin Skywalker ultimately turns his back on the Jedi, thus completing his journey to the dark side and his transformation into Darth Vader. Obi-Wan Kenobi must face his former apprentice in a ferocious lightsaber duel on the fiery world of Mustafar.",
-    "poster" : "star_wars_episode_3_poster.png",
-    "hero_image" : "star_wars_episode_3_hero.jpg"
+    "main_characters" : ["Harry Potter", "Hermione Granger", "Ron Weasley", "Sirius Black", "Professor Lupin", "Albus Dumbledore", "Professor Snape", "Lord Voldemort"],
+    "description" : "Harry Potter's (Daniel Radcliffe) third year at Hogwarts starts off badly when he learns deranged killer Sirius Black (Gary Oldman) has escaped from Azkaban prison and is bent on murdering the teenage wizard. While Hermione's (Emma Watson) cat torments Ron's (Rupert Grint) sickly rat, causing a rift among the trio, a swarm of nasty Dementors is sent to protect the school from Black. A mysterious new teacher helps Harry learn to defend himself, but what is his secret tie to Sirius Black?",
+    "poster" : "harry_potter_movie_3_poster.png",
+    "hero_image" : "harry_potter_movie_3_hero.jpg"
   },
 
   {
-    "title" : "Star Wars: Episode IV - A New Hope",
+    "title" : "Harry Potter and the Goblet of Fire",
     "movie_number" : "4",
-    "main_characters" : ["Luke Skywalker", "Han Solo", "Princess Leia Organa", "Ben Kenobi", "Darth Vader", "C-3P0", "R2-D2", "Chewbacca"],
-    "description" : "Part IV in George Lucas' epic, Star Wars: A New Hope opens with a Rebel ship being boarded by the tyrannical Darth Vader. The plot then follows the life of a simple farm boy, Luke Skywalker, as he and his newly met allies (Han Solo, Chewbacca, Obi-Wan Kenobi, C-3PO, R2-D2) attempt to rescue a Rebel leader, Princess Leia, from the clutches of the Empire. The conclusion is culminated as the Rebels, including Skywalker and flying ace Wedge Antilles make an attack on the Empire's most powerful and ominous weapon, the Death Star.",
-    "poster" : "star_wars_episode_4_poster.png",
-    "hero_image" : "star_wars_episode_4_hero.jpg"
+    "main_characters" : ["Harry Potter", "Hermione Granger", "Ron Weasley", "Rubeus Hagrid", "Alastor Moody", "Albus Dumbledore"],
+    "description" : "The fourth movie in the Harry Potter franchise sees Harry (Daniel Radcliffe) returning for his fourth year at Hogwarts School of Witchcraft and Wizardry, along with his friends, Ron (Rupert Grint) and Hermione (Emma Watson). There is an upcoming tournament between the three major schools of magic, with one participant selected from each school by the Goblet of Fire. When Harry's name is drawn, even though he is not eligible and is a fourth player, he must compete in the dangerous contest.",
+    "poster" : "harry_potter_movie_4_poster.png",
+    "hero_image" : "harry_potter_movie_4_hero.jpg"
   },
 
   {
-    "title" : "Star Wars: Episode V - The Empire Strikes Back",
+    "title" : "Harry Potter and the Order of the Phoenix",
     "movie_number" : "5",
-    "main_characters" : ["Luke Skywalker", "Han Solo", "Princess Leia Organa", "Darth Vader", "C-3P0", "R2-D2", "Chewbacca", "Lando Calrissian", "Boba Fett"],
-    "description" : "Fleeing the evil Galactic Empire, the Rebels abandon their new base in an assault with the Imperial AT-AT walkers on the ice world of Hoth. Princess Leia, Han Solo, Chewbacca and the droid C-3PO escape in the Millennium Falcon, but are later captured by Darth Vader on Bespin. Meanwhile, Luke Skywalker and the droid R2-D2 follows Obi-Wan Kenobi's posthumous command, and receives Jedi training from Master Yoda on the swamp world of Dagobah. Will Skywalker manage to rescue his friends from the Dark Lord?",
-    "poster" : "star_wars_episode_5_poster.png",
-    "hero_image" : "star_wars_episode_5_hero.jpg"
+    "main_characters" : ["Harry Potter", "Hermione Granger", "Ron Weasley", "Rubeus Hagrid", "Draco Malfoy", "Albus Dumbledore", "Dolores Umbridge", "Bellatrix Lestrange", "Lord Voldemort", "Sirius Black", "Vernon Dursley", "Lucius Malfoy"],
+    "description" : "Now in his fifth year at Hogwarts, Harry (Daniel Radcliffe) learns that many in the wizarding community do not know the truth of his encounter with Lord Voldemort. Cornelius Fudge, minister of Magic, appoints his toady, Dolores Umbridge, as Defense Against the Dark Arts teacher, for he fears that professor Dumbledore will take his job. But her teaching is deficient and her methods, cruel, so Harry prepares a group of students to defend the school against a rising tide of evil.",
+    "poster" : "harry_potter_movie_5_poster.png",
+    "hero_image" : "harry_potter_movie_5_hero.jpg"
   },
 
   {
-    "title" : "Star Wars: Episode VI - Return of the Jedi",
+    "title" : "Harry Potter and the Half-Blood Prince",
     "movie_number" : "6",
-    "main_characters" : ["Luke Skywalker", "Han Solo", "Princess Leia Organa", "Darth Vader", "C-3P0", "Chewbacca", "The Emperor", "Boba Fett"],
-    "description" : "Darth Vader and the Empire are building a new, indestructible Death Star. Meanwhile, Han Solo has been imprisoned, and Luke Skywalker has sent R2-D2 and C-3PO to try and free him. Princess Leia - disguised as a bounty hunter - and Chewbacca go along as well. The final battle takes place on the moon of Endor, with its natural inhabitants, the Ewoks, lending a hand to the Rebels. Will Darth Vader and the Dark Side overcome the Rebels and take over the universe?",
-    "poster" : "star_wars_episode_6_poster.png",
-    "hero_image" : "star_wars_episode_6_hero.jpg"
+    "main_characters" : ["Harry Potter", "Hermione Granger", "Ron Weasley", "Bellatrix Lestrange", "Draco Malfoy", "Albus Dumbledore", "Ginny Weasley", "Horace Slughorn", "Professor Snape"],
+    "description" : "As Death Eaters wreak havoc in both Muggle and Wizard worlds, Hogwarts is no longer a safe haven for students. Though Harry (Daniel Radcliffe) suspects there are new dangers lurking within the castle walls, Dumbledore is more intent than ever on preparing the young wizard for the final battle with Voldemort. Meanwhile, teenage hormones run rampant through Hogwarts, presenting a different sort of danger. Love may be in the air, but tragedy looms, and Hogwarts may never be the same again.",
+    "poster" : "harry_potter_movie_6_poster.png",
+    "hero_image" : "harry_potter_movie_6_hero.jpg"
+  },
+
+  {
+    "title" : "Harry Potter and the Deathly Hallows – Part 1",
+    "movie_number" : "7",
+    "main_characters" : ["Harry Potter", "Hermione Granger", "Ron Weasley", "Bellatrix Lestrange", "Rubeus Hagrid", "Lord Voldemort", "Albus Dumbledore", "Vernon Dursley", "Ollivander", "Xenophilius Lovegood", "Lucius Malfoy", "Rufus Scrimgeour", "Professor Snape", "Petunia Dursley", "Wormtail", "Remus Lupin"],
+    "description" : "Without the guidance and protection of their professors, Harry (Daniel Radcliffe), Ron (Rupert Grint) and Hermione (Emma Watson) begin a mission to destroy the Horcruxes, the sources of Voldemort's immortality. Though they must rely on one another more than ever, dark forces threaten to tear them apart. Voldemort's Death Eaters have seized control of the Ministry of Magic and Hogwarts, and they are searching for Harry -- even as he and his friends prepare for the ultimate showdown.",
+    "poster" : "harry_potter_movie_7_poster.png",
+    "hero_image" : "harry_potter_movie_7_hero.jpg"
+  },
+
+  {
+    "title" : "Harry Potter and the Deathly Hallows – Part 2",
+    "movie_number" : "8",
+    "main_characters" : ["Harry Potter", "Hermione Granger", "Ron Weasley", "Bellatrix Lestrange", "Rubeus Hagrid", "Lord Voldemort", "Lucius Malfoy", "Professor Snape", "Professor McGonagall", "Remus Lupin"],
+    "description" : "A clash between good and evil awaits as young Harry (Daniel Radcliffe), Ron (Rupert Grint) and Hermione (Emma Watson) prepare for a final battle against Lord Voldemort (Ralph Fiennes). Harry has grown into a steely lad on a mission to rid the world of evil. The friends must search for the Horcruxes that keep the dastardly wizard immortal. Harry and Voldemort meet at Hogwarts Castle for an epic showdown where the forces of darkness may finally meet their match.",
+    "poster" : "harry_potter_movie_8_poster.png",
+    "hero_image" : "harry_potter_movie_8_hero.jpg"
+  },
+
+  {
+    "title" : "Fantastic Beasts and Where to Find Them",
+    "movie_number" : "9",
+    "main_characters" : ["Newt Scamander", "Credence", "Percival Graves", "Gnarlack", "Porpentina Goldstein", "Henry Shaw, Sr", "Mary Lou", "Seraphina Picquery", "Jacob Kowalski", "Chastity"],
+    "description" : "In 1926, Newt Scamander (Eddie Redmayne) arrives at the Magical Congress of the United States of America (MACUSA), for a meeting with an important official. At this meeting is a magically expanded briefcase which houses a number of dangerous creatures and their habitats. When the creatures escape from the briefcase, it sends the American wizarding authorities after Newt, and threatens to strain even further the state of magical and non-magical relations. The mistake has a devastating effect on the state of Wizarding/No-Maj (the American term for a non-magical person or muggle) relations in New York City's community of wizards and witches, which is already in a dangerous place, due to the threatening presence of the fanatical New Salem Philanthropic Society, an extremist organisation dedicated to the eradication of wizard-kind. Newt battles to correct the mistake, and the horrors of the resultant increase in violence, fear, and tension felt between magical and non-magical peoples.",
+    "poster" : "harry_potter_movie_9_poster.png",
+    "hero_image" : "harry_potter_movie_9_hero.jpg"
   }]
 
 }

@@ -2,6 +2,7 @@
 General Styles 
 ----------------------------- */
 body {
+	background-color: #86B7A6;
 	font-family: 'Montserrat', sans-serif;
 	font-weight: 400;
 	color: #333;
@@ -21,7 +22,7 @@ Hero Image / Title Styles
 	height: 550px;
 	width: 100%;
 	background-color: #444;
-	background-image: url('../images/death_star_image.jpg');
+	background-image: url('../images/home_image.jpg');
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center;
@@ -40,7 +41,7 @@ Hero Image / Title Styles
 
 #hero-image #hero-title {
 	position: absolute;
-	background-color: #fff;
+	color: white;
 	padding: 25px 60px;
 	left: 50%;
 	-webkit-transform: translateX(-50%);
@@ -81,7 +82,7 @@ Navbar and Navigation Styles / Overrides
 }
 
 .dropdown.open .dropdown-menu li a:hover {
-	color: #fde5b9;
+	color: #95CCB9;
 }
 
 .navbar-nav > li:first-child {
@@ -110,13 +111,15 @@ Home Page Posters Styles
 -------------------------------- */
 
 #posters-wrapper {
-	padding-top: 75px;
+	padding-top: 25px;
 }
 .poster {
-	width: 30%;
+	width: 25%;
+	margin-left: 4%;
 	margin-right: 4%;
 	display: inline-block;
 	position: relative;
+	padding-top: 50px;
 }
 
 
@@ -168,14 +171,14 @@ footer::before {
 	display: block;
 	width: 90%;
 	margin-bottom: 20px;
-	border-top: 1px solid #dedede;
+	border-top: 1px solid #ffffff;
 	margin-left: auto;
 	margin-right: auto;
 }
 
 footer p {
 	float: left;
-	color: #999;
+	color: white;
 	letter-spacing: 0.3px;
 	font-size: 12px;
 	padding-bottom: 20px;
@@ -187,7 +190,7 @@ footer .social-media-icons {
 
 footer .social-media-icons i {
 	font-size: 24px;
-	color: #999;
+	color: white;
 	transition: 0.5s ease-in-out;
 }
 
@@ -200,7 +203,7 @@ footer .social-media-icons a:last-child:hover i {
 }
 
 footer .social-media-icons a:first-child:hover i {
-	color: #333;
+	color: #af0b0c;
 }
 
 
@@ -247,7 +250,7 @@ Movie-Single Hero Image and Title Styles
 
 #hero-image-single #hero-title {
 	position: absolute;
-	background-color: #fff;
+	color: white;
 	padding: 25px 60px;
 	left: 50%;
 	width: auto;
@@ -286,6 +289,7 @@ Movie-Single Poster and Description Styles
 	margin-left: 5%;
 	width: 65%;
 	margin-top: 50px;
+	color: white;
 }
 
 .movie-header {
@@ -298,6 +302,7 @@ Movie-Single Poster and Description Styles
   display: inline-block;
   margin-top: 0px;
   margin-bottom: 15px;
+  color: white;
 }
 
 .description-wrapper p {
@@ -305,6 +310,7 @@ Movie-Single Poster and Description Styles
 	letter-spacing: 0.3px;
 	font-size: 13px;
 	margin-bottom: 25px;
+	color: white;
 }
 
 .main-characters ul li {
@@ -314,10 +320,12 @@ Movie-Single Poster and Description Styles
 	margin-bottom: 15px;
 	letter-spacing: 0.3px;
 	font-size: 13px;
+	color: white;
 }
 
 .main-characters ul {
 	padding-left: 0px;
+	color: white;
 }
 
 
@@ -474,7 +482,7 @@ Page Not Found Template Styles
 #hero-image-notFound {
 	height: 550px;
 	width: 100%;
-	background-color: #444;
+	background-color: #fff;
 	background-image: url('../images/404.jpg');
 	background-size: cover;
 	background-repeat: no-repeat;
@@ -494,7 +502,7 @@ Page Not Found Template Styles
 
 #hero-image-notFound #hero-title {
 	position: absolute;
-	background-color: #fff;
+	color: black;
 	padding: 25px 60px;
 	left: 50%;
 	-webkit-transform: translateX(-50%);
